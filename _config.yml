@@ -1,15 +1,15 @@
 # Site settings
-name: Less Or More
+name: 学习
 email: 2047343655@qq.com
 author: J.Shen
-url: 
-resume_site: 
-github: https://github.com/gitJEffReyhub/
+url: www.njuszj.com
+resume_site: www.njuszj.com
+github: https://github.com/njuszj/
 baseurl: ""
-description: Actually, less is more!
-meta_description: 沈杰;个人博客;学而不思则罔;思而不学则殆
-motto: 我喜欢.
-banner: hello,world.
+description: Less is More
+meta_description: 沈杰;个人博客
+motto:   学无止境
+banner: 关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: gitJEffReyhub
+github_username: njuszj
 
 # Build settings
 markdown: kramdown
