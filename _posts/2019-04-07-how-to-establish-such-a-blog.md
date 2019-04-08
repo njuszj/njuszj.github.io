@@ -33,7 +33,9 @@ cd '解压路径'
 ruby setup.rb
 gem install jekyll
 ```
+
 到这里jekyll已经安装完成了，下面介绍如何在本地创建并运行博客。cmd下cd到任意目录(cd 目录名)，博客文件将在这里创建（博客名字可自定义）：
+
 ```
 jekyll new blog1
 cd blog1
@@ -66,7 +68,7 @@ jekyll server
 线路类型：默认即可
 记录值：username.github.io
 ```
-![1]({{ '/styles/images/tengxunyun.png' | prepend: site.baseurl  }})
+![png]({{ '/styles/images/tengxunyun.png' | prepend: site.baseurl  }})
 
 ### 结语
 至此，一个博客网站就搭好了，如果发现我写的这篇博客有任何问题，欢迎用邮箱与我交流：njuszj@qq.com。
