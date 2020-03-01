@@ -3,7 +3,7 @@ layout: post
 title:  C++防止int32溢出--以反转数字为例
 date:   2019-05-15 19:49:00 +0800
 categories: note
-tag: C++
+tag: C/C++
 ---
 
 * content

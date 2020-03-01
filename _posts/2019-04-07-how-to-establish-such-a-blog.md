@@ -3,7 +3,6 @@ layout: post
 title:  怎样用github+jekyll搭建自己的博客网站
 date:   2019-04-07 11:00:00 +0800
 categories: document
-#小类配置
 tag: 网站相关
 ---
 

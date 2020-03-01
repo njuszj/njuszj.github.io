@@ -3,7 +3,7 @@ layout: post
 title:  C++学习笔记：单词转换程序
 date:   2019-04-21 01:08:00 +0800
 categories: note
-tag: C++
+tag: C/C++
 ---
 
 * content
