@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'njuszj的博客'
 description: '哈喽'
-keyword: 'C++,Linux,机器学习,人工智能,python'
+keyword: 'C/C++,python,Linux,机器学习'
 url: 'www.njuszj.com'
 
 # if you don't need baseurl, you should leave this value blank.

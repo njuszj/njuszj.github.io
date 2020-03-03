@@ -26,11 +26,11 @@ SheetMaker是一款针对1688进货单货品名和商品系统名之间转换的
 ### 使用方法
 
 + 首先可以选择是否合并表单。从1688导出的表单可能是分页的，此时需要进行合并处理。如果需要合并，点击‘...’按钮选择需要合并的文件所在的文件夹，此文件夹仅包含需要合并的文件，点击合并按钮进行合并。如果只是单个文件，可以点击跳过这一步
-![合并界面](https://img-blog.csdnimg.cn/20190918211610714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzQxNzQzMTk1,size_16,color_FFFFFF,t_70)
+![合并界面](https://img-blog.csdnimg.cn/20190918211610714.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzQxNzQzMTk1,size_1,color_FFFFFF,t_70)
 + 之后进入表单的匹配，上一步如果选择了合并文件，合并之后的表单文件位于该系统的同级目录下，路径栏会自动填充；也可以点击‘...’选择需要处理的表单，然后点击匹配表单，系统进行自动匹配
-![匹配](https://img-blog.csdnimg.cn/20190918212445348.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzQxNzQzMTk1,size_16,color_FFFFFF,t_70)
+![匹配](https://img-blog.csdnimg.cn/20190918212445348.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzQxNzQzMTk1,size_1,color_FFFFFF,t_70)
 + 匹配之后可能出现错误匹配、漏匹配等现象，选中左边需要修正的行（使用shift进行批量修正），在右边进行搜索，然后选中正确的条目，点击‘替换’按钮即可用右边正确的匹配项替换左边错误的匹配项。确认无误后，点击导出，会产生完成的表单（替换原1688文件），同时支持按收货人拆分成子表，文件位于‘/拆分的子表’。
-![工作](https://img-blog.csdnimg.cn/20190918212501450.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzQxNzQzMTk1,size_16,color_FFFFFF,t_70)
+![工作](https://img-blog.csdnimg.cn/20190918212501450.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzQxNzQzMTk1,size_1,color_FFFFFF,t_70)
 
 ### 注意事项
 
